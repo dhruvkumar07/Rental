@@ -1,1 +1,1 @@
-# Rental
+# react-native-rent-a-car
